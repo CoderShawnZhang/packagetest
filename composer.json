@@ -6,6 +6,9 @@
             "email": "zhanghongbo@anlewo.com"
         }
     ],
+    "support": {
+        "email": "taobao1875@163.com"
+    },
     "require": {
         "shawnzhang/packagetest-for-laravel": "dev-master"
     },
@@ -14,5 +17,6 @@
             "App\\": "app/",
             "Shawn\\Packagetest\\": "packages/shawn/packagetest/src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
