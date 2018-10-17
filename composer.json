@@ -16,17 +16,17 @@
     "autoload": {
         "psr-4": {
             "App\\": "app/",
-            "Shawn\\Packagetest\\": "src/"
+            "Shawnzhang\\Packagetest\\": "src/"
         }
     },
     "minimum-stability": "stable",
     "extra": {
         "laravel": {
             "providers": [
-                "Shawn\\Packagetest\\PackagetestServiceProvider"
+                "Shawnzhang\\Packagetest\\PackagetestServiceProvider"
             ],
             "aliases": {
-                "Admin": "Shawn\\Packagetest\\Facades\\Packagetest"
+                "Admin": "Shawnzhang\\Packagetest\\Facades\\Packagetest"
             }
         }
     }

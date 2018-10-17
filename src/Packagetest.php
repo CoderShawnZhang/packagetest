@@ -6,7 +6,7 @@
  * Time: 下午5:02
  */
 
-namespace Shawn\Packagetest;
+namespace Shawnzhang\Packagetest;
 
 use Illuminate\Session\SessionManager;
 use Illuminate\Config\Repository;

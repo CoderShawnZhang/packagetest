@@ -1,6 +1,6 @@
 <?php
 
-namespace Shawn\Packagetest\Facades;
+namespace Shawnzhang\Packagetest\Facades;
 
 /**
  * Created by PhpStorm.

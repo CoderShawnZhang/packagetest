@@ -1,6 +1,6 @@
 <?php
 
-namespace Shawn\Packagetest;
+namespace Shawnzhang\Packagetest;
 
 use Illuminate\Support\ServiceProvider;
 
