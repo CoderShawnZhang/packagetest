@@ -26,7 +26,7 @@
                 "Shawnzhang\\Packagetest\\PackagetestServiceProvider"
             ],
             "aliases": {
-                "Admin": "Shawnzhang\\Packagetest\\Facades\\Packagetest"
+                "Packagetest": "Shawnzhang\\Packagetest\\Facades\\Packagetest"
             }
         }
     }
