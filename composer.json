@@ -1,0 +1,18 @@
+{
+    "name": "shawn/packagetest-for-laravel",
+    "authors": [
+        {
+            "name": "张洪波",
+            "email": "zhanghongbo@anlewo.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "5.5.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Shawn\\Packagetest\\": "packages/shawn/packagetest/src/"
+        }
+    }
+}
