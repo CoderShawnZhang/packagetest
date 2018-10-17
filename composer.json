@@ -19,5 +19,5 @@
             "Shawn\\Packagetest\\": "packages/shawn/packagetest/src/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
