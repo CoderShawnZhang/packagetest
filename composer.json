@@ -19,5 +19,15 @@
             "Shawn\\Packagetest\\": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Shawn\\Packagetest\\PackagetestServiceProvider"
+            ],
+            "aliases": {
+                "Admin": "Shawn\\Packagetest\\Facades\\Packagetest"
+            }
+        }
+    }
 }
