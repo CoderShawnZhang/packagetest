@@ -16,7 +16,7 @@
     "autoload": {
         "psr-4": {
             "App\\": "app/",
-            "Shawn\\Packagetest\\": "packages/shawn/packagetest/src/"
+            "Shawn\\Packagetest\\": "src/"
         }
     },
     "minimum-stability": "stable"
